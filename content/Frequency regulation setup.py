@@ -214,7 +214,7 @@ def freq_response_interact(ΔP_load=0.1, H=1, s=0.10, T_fcr=1,
     """interactive plot of frequency response, meant to be given to `ipywidgets.interact`
     """
     if T_ΔP=='permanent':
-        T_ΔP=t_fin
+        T_ΔP=t_fin+1
     elif T_ΔP=='4 s':
         T_ΔP=4
     else:
