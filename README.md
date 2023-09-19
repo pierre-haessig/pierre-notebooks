@@ -11,6 +11,9 @@ Jupyter Lab interface with all the notebooks: https://pierre-haessig.github.io/p
 ### ⚡ Electrical engineering ⚡
 
 1. **Puissances en régime alternatif** (P, Q, S, cosϕ…): [Puissances_alternatives.ipynb](https://pierre-haessig.github.io/pierre-notebooks/retro/notebooks/?path=Puissances_alternatives.ipynb) (in French 🇫🇷)
-2. **Frequency regulation** — Simulating the swing equation and the effect of primary reserve (FCR): [Frequency_regulation.ipynb](https://pierre-haessig.github.io/pierre-notebooks/retro/notebooks/?path=Frequency_regulation.ipynb), with an **interactive transient simulation of grid frequency**: 
+2. **Frequency regulation** — Simulating the swing equation and the effect of primary reserve (FCR), with an **interactive transient simulation of grid frequency**: 
 
-![Screenshot of interactive transient simulation of grid frequency](images/Frequency regulation interactive.png)
+   - variant with code and formulas [Frequency regulation.ipynb](https://pierre-haessig.github.io/pierre-notebooks/retro/notebooks/?path=Frequency%20regulation.ipynb) 🧑‍💻
+   - variant with the interactive simulation only [Frequency regulation nocode.ipynb](https://pierre-haessig.github.io/pierre-notebooks/retro/notebooks/?path=Frequency%20regulation%20nocode.ipynb) 🕹️
+
+   ![Screenshot of interactive transient simulation of grid frequency](images/Frequency regulation%20interactive.png)
