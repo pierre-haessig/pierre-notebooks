@@ -16,4 +16,4 @@ Jupyter Lab interface with all the notebooks: https://pierre-haessig.github.io/p
    - variant with code and formulas [Frequency regulation.ipynb](https://pierre-haessig.github.io/pierre-notebooks/retro/notebooks/?path=Frequency%20regulation.ipynb) 🧑‍💻
    - variant with the interactive simulation only [Frequency regulation nocode.ipynb](https://pierre-haessig.github.io/pierre-notebooks/retro/notebooks/?path=Frequency%20regulation%20nocode.ipynb) 🕹️
 
-   ![Screenshot of interactive transient simulation of grid frequency](images/Frequency regulation%20interactive.png)
+   ![Screenshot of interactive transient simulation of grid frequency](images/Frequency%20regulation%20interactive.png)
