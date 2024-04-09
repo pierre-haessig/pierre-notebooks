@@ -1,11 +1,11 @@
 # Requirements, taken from jupyterlite/demo
-# last change: 15 sept 2023, fixes https://github.com/jupyterlite/demo/issues/127
+# last change: 09 apr 2024, fixes again a ipywidget issue
 # Core modules (mandatory)
-jupyterlite-core==0.1.2
-jupyterlab~=3.5.1
+jupyterlite-core==0.3.0
+jupyterlab~=4.1.6
 
-# Python kernel (optional)
-jupyterlite-pyodide-kernel==0.1.2
+# Python kernel
+jupyterlite-pyodide-kernel==0.3.1
 
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
