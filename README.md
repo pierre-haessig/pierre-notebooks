@@ -19,3 +19,5 @@ Jupyter Lab interface with all the notebooks: https://pierre-haessig.github.io/p
    - variant with the interactive simulation only [Frequency regulation nocode.ipynb](https://pierre-haessig.github.io/pierre-notebooks/notebooks/?path=Frequency%20regulation%20nocode.ipynb) 🕹️
 
    ![Screenshot of interactive transient simulation of grid frequency](images/Frequency%20regulation%20interactive.png)
+
+3. 🔋 **Battery state of charge (SoC) estimation using Kalman filter**: [Kalman filter battery.ipynb](https://pierre-haessig.github.io/pierre-notebooks/notebooks/?path=Kalman%20filter%20battery.ipynb) (archived version at https://hal.science/hal-04701587)
