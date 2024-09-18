@@ -1,12 +1,12 @@
 # Requirements, taken from jupyterlite/demo
-# last change: 09 apr 2024, fixes again a ipywidget issue
+# last change: 18 Sept 2024 (update to latest versions)
 # Core modules (mandatory)
-jupyterlite-core==0.3.0
-jupyterlab~=4.1.6
-notebook~=7.1.2
+jupyterlite-core==0.4.1
+jupyterlab~=4.2.5
+notebook~=7.2.2
 
 # Python kernel
-jupyterlite-pyodide-kernel==0.3.1
+jupyterlite-pyodide-kernel==0.4.2
 
 # Language support (optional)
 jupyterlab-language-pack-fr-FR
@@ -16,6 +16,6 @@ jupyterlab-language-pack-zh-CN
 jupyterlab-night
 
 # Python: ipywidget library for Jupyter notebooks (optional)
-ipywidgets>=8.1.1,<9
+ipywidgets>=8.1.3,<9
 # Python: interative Matplotlib library for Jupyter notebooks (optional)
 ipympl>=0.8.2
