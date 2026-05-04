@@ -6,6 +6,8 @@ These notebooks can be run directly in a web browser thanks to [JupyterLite](htt
 
 Jupyter Lab interface with all the notebooks: https://pierre-haessig.github.io/pierre-notebooks/lab/
 
+Remark: the setup of ipywidgets in JupterLite (using the pyodide-kernel) is [fragile](https://github.com/jupyter/try-jupyter/issues/54), so that the interactive widgets of these notebook are often broken, unfortunately ☹️. Still, the remaining cells should work fine and the widgets as well if run in a classical local Jupyter environment.
+
 ## Direct links to content
 
 (using the simpler interface of the “classical” Jupyter notebook)
@@ -21,3 +23,8 @@ Jupyter Lab interface with all the notebooks: https://pierre-haessig.github.io/p
    ![Screenshot of interactive transient simulation of grid frequency](images/Frequency%20regulation%20interactive.png)
 
 3. 🔋 **Battery state of charge (SoC) estimation using Kalman filter**: [Kalman filter battery.ipynb](https://pierre-haessig.github.io/pierre-notebooks/notebooks/?path=Kalman%20filter%20battery.ipynb) (archived version at https://hal.science/hal-04701587)
+
+4. **Clarke (αβ) & Park (dq) transforms illustrated**: [Clarke_Park-dq_transforms_plot.ipynb](https://pierre-haessig.github.io/pierre-notebooks/notebooks/?path=Clarke_Park-dq_transforms_plot.ipynb)
+
+   - Illustration when the dq reference frame is moving slightly too slow (40 Hz vs. 50 Hz), making the space vector slowly moving in the dq frame: ![Plot of Screenshot Clarke (αβ) & Park (dq) transforms](images/Clarke-Park_balanceddq_40-50.png)
+
